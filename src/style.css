@@ -38,16 +38,19 @@ h1 {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
+  color: gray;
 }
 
 h2 {
   font-size: 2rem;
   font-family: "Fraunces", serif;
+  line-height: 100%;
 }
 
 p {
   font-size: 0.875rem;
   line-height: 160%;
+  color: gray;
 }
 
 .prices {
